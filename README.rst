@@ -150,15 +150,15 @@ General Info
 ------------
 Under Developement
 
+.. image:: /images/info.png
+   :width: 600
+   
 .. raw:: html
-  <a href="https://github.com/Agent-Hellboy/#gh-light-mode-only">
-    <img src="https://raw.githubusercontent.com/Agent-Hellboy/pyytdata/master/images/info.png" alt="light logo" width="600" />
-  </a>
-
-  <a href="https://github.com/Agent-Hellboy#gh-dark-mode-only">
-    <img src="https://raw.githubusercontent.com/arncv/pyytdata/master/images/pyytdata-%20logo%20dark2.png" alt="dark logo" width="600" />
-  </a>
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arncv/pyytdata/master/images/pyytdata-%20logo%20dark2.png">
      
+     <img alt="information flowchart" src="https://raw.githubusercontent.com/arncv/pyytdata/master/images/pyytdata-%20logo%20dark2.png">
+   </picture>
 
 - I think the package has implemented the facade pattern as the lower level packages like videoinfo and chnlinfo are independent form pyytdata and is not exposed to client and also the interaction between querier and videoinfo is hidden from client by providing a interface/module pyytdata
 - vidoinfo class and Chnlinfo has composition relationship as video does not exixts without a channel
