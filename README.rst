@@ -155,7 +155,7 @@ Under Developement
     <img src="https://raw.githubusercontent.com/Agent-Hellboy/pyytdata/master/images/info.png" alt="light logo" width="600" />
   </a>
 
-  <a href="https://github.com/itaditya#gh-dark-mode-only">
+  <a href="https://github.com/Agent-Hellboy#gh-dark-mode-only">
     <img src="https://raw.githubusercontent.com/arncv/pyytdata/master/images/pyytdata-%20logo%20dark2.png" alt="dark logo" width="600" />
   </a>
      
