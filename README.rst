@@ -151,12 +151,12 @@ General Info
 Under Developement
 
 .. raw:: html
-  <a href="https://github.com/itaditya#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=itaditya&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+  <a href="https://github.com/Agent-Hellboy/#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/Agent-Hellboy/pyytdata/master/images/info.png" alt="light logo" width="600" />
   </a>
 
   <a href="https://github.com/itaditya#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=itaditya&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+    <img src="https://raw.githubusercontent.com/arncv/pyytdata/master/images/pyytdata-%20logo%20dark2.png" alt="dark logo" width="600" />
   </a>
      
 
