@@ -150,8 +150,15 @@ General Info
 ------------
 Under Developement
 
-.. image:: /images/info.png
-   :width: 600
+.. raw:: html
+  <a href="https://github.com/itaditya#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=itaditya&show_icons=true&theme=graywhite#gh-light-mode-only" alt="My GitHub Stats" />
+  </a>
+
+  <a href="https://github.com/itaditya#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=itaditya&show_icons=true&theme=city_lights#gh-dark-mode-only" alt="My GitHub Stats" />
+  </a>
+     
 
 - I think the package has implemented the facade pattern as the lower level packages like videoinfo and chnlinfo are independent form pyytdata and is not exposed to client and also the interaction between querier and videoinfo is hidden from client by providing a interface/module pyytdata
 - vidoinfo class and Chnlinfo has composition relationship as video does not exixts without a channel
